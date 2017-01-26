@@ -8,3 +8,5 @@
 <h6>Það er notað til þess að passa upp á kerfi, og skoðar það svo að það finnur út hvort eitthvað sé bilað, annað hvort áður en það kemur upp eða áður en það verður að stóru bilun.</h6>
 <h3>4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?</h3>
 <h6>ESD stendur fyrir Electrostatic discharge og það er hægt að nota sérstök bönd til að koma í veg fyrir það.</h6>
+<h3>5. Hvað þarf að hafa í huga við val á spennugjöfum?</h3>
+<h6>Maður þarf að vita hvað talvan þín þarf mikið vött til að geta virkað.</h6>
