@@ -10,3 +10,10 @@
 <h6>ESD stendur fyrir Electrostatic discharge og það er hægt að nota sérstök bönd til að koma í veg fyrir það.</h6>
 <h3>5. Hvað þarf að hafa í huga við val á spennugjöfum?</h3>
 <h6>Maður þarf að vita hvað talvan þín þarf mikið vött til að geta virkað.</h6>
+<h3>6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?</h3>
+<h6>1- Fá eins mikið af upplýsingum frá viðskiptavininum til að reyna að greina hvað er að.
+	2- Búa til kenningu um hvað gæti orsökin gæti verið.
+	3- Prufa þessa kenningu.
+	4- Finna út leið til þess að laga þessa bilun og framkvæma hana.
+	5- Staðfesta að allt sé í lagi með tölvuna.
+	6- Útskýra hvað var að og skrifa niður allt sem þú gerðir fyrir framtíðar notkun.</h6>
