@@ -17,3 +17,6 @@
 	4- Finna út leið til þess að laga þessa bilun og framkvæma hana.
 	5- Staðfesta að allt sé í lagi með tölvuna.
 	6- Útskýra hvað var að og skrifa niður allt sem þú gerðir fyrir framtíðar notkun.</h6>
+<h3>7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.</h3>
+<h6>Lokuð spurning þarf einungis eitt orð til þess að svara ("Er allt í lagi?"), en opin spurning þarf meira en eitt orð til þess að útskýra ("Hvað gerðist í gær?"). </h6>
