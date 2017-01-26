@@ -20,3 +20,5 @@
 <h3>7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 Nefnið dæmi um báðar gerðir af spurningum.</h3>
 <h6>Lokuð spurning þarf einungis eitt orð til þess að svara ("Er allt í lagi?"), en opin spurning þarf meira en eitt orð til þess að útskýra ("Hvað gerðist í gær?"). </h6>
+<h3>8. Hvað eru jaðartæki?</h3>
+<h6>Jaðartæki eru tæki sem eru tengd við tölvuna en eru ekki partur af tölvunni sjálfri. T.d. prentari.</h6>
