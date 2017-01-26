@@ -11,7 +11,7 @@
 ###5. Hvað þarf að hafa í huga við val á spennugjöfum?
 ######Maður þarf að vita hvað talvan þín þarf mikið vött til að geta virkað.
 ###6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
-######1- Fá eins mikið af upplýsingum frá viðskiptavininum til að reyna að greina hvað er að.
+	1- Fá eins mikið af upplýsingum frá viðskiptavininum til að reyna að greina hvað er að.
 	2- Búa til kenningu um hvað gæti orsökin gæti verið.
 	3- Prufa þessa kenningu.
 	4- Finna út leið til þess að laga þessa bilun og framkvæma hana.
