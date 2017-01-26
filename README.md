@@ -22,3 +22,5 @@ Nefnið dæmi um báðar gerðir af spurningum.</h3>
 <h6>Lokuð spurning þarf einungis eitt orð til þess að svara ("Er allt í lagi?"), en opin spurning þarf meira en eitt orð til þess að útskýra ("Hvað gerðist í gær?"). </h6>
 <h3>8. Hvað eru jaðartæki?</h3>
 <h6>Jaðartæki eru tæki sem eru tengd við tölvuna en eru ekki partur af tölvunni sjálfri. T.d. prentari.</h6>
+<h3>9. Nefndu þrjú dæmi um inntakstæki.</h3>
+<h6>Lyklaborð, mús og hljóðnemar.</h6>
