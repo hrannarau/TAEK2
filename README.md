@@ -18,15 +18,15 @@
 	5- Staðfesta að allt sé í lagi með tölvuna.
 	6- Útskýra hvað var að og skrifa niður allt sem þú gerðir fyrir framtíðar notkun.
 ###7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
-Nefnið dæmi um báðar gerðir af spurningum.
+###Nefnið dæmi um báðar gerðir af spurningum.
 ######Lokuð spurning þarf einungis eitt orð til þess að svara ("Er allt í lagi?"), en opin spurning þarf meira en eitt orð til þess að útskýra ("Hvað gerðist í gær?").
 ###8. Hvað eru jaðartæki?
 ######Jaðartæki eru tæki sem eru tengd við tölvuna en eru ekki partur af tölvunni sjálfri. T.d. prentari.
 ###9. Nefndu þrjú dæmi um inntakstæki.
 ######Lyklaborð, mús og hljóðnemar.
 ###10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
-leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
-fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+###leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+###fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 ######| Örgjörvi          | Móðurborð                        | RAM                                          | Harður Diskur          | Skjákort               | Spennugjafi         | Tölvukassi                |
 ######|:-----------------:|:--------------------------------:|:--------------------------------------------:|:----------------------:|:----------------------:|:-------------------:|:-------------------------:|
 ######| Intel Core I5-6400| Gigabyte S1151 GA-Z170-Gaming K3 | Corsair 4GB DDR4 2133MHz ValueSelect CL15 x2 | 2TB SATA3 Seagate SSHD | Gigabyte RX 480 G1 8GB | Corsair CX 500W ATX | Thermaltake Versa H25 ATX |
