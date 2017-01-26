@@ -27,9 +27,9 @@
 ###10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
 ###leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 ###fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
-######| Örgjörvi          | Móðurborð                        | RAM                                          | Harður Diskur          | Skjákort               | Spennugjafi         | Tölvukassi                |
-######|:-----------------:|:--------------------------------:|:--------------------------------------------:|:----------------------:|:----------------------:|:-------------------:|:-------------------------:|
-######| Intel Core I5-6400| Gigabyte S1151 GA-Z170-Gaming K3 | Corsair 4GB DDR4 2133MHz ValueSelect CL15 x2 | 2TB SATA3 Seagate SSHD | Gigabyte RX 480 G1 8GB | Corsair CX 500W ATX | Thermaltake Versa H25 ATX |
-######| 26.990kr          | 21.990kr                         | 5.995kr                                      | 18.990kr               | 54.990kr               | 11.696kr            | 12.990kr                  |
-######| Tölvutek.is       | Tölvutek.is                      | Tölvulistinn                                 | Tölvutek.is            | Tölvutek.is            | Tölvulistinn        | Tölvutek.is               |
-######Samtals: 153.641kr
+| Örgjörvi          | Móðurborð                        | RAM                                          | Harður Diskur          | Skjákort               | Spennugjafi         | Tölvukassi                |
+|:-----------------:|:--------------------------------:|:--------------------------------------------:|:----------------------:|:----------------------:|:-------------------:|:-------------------------:|
+| Intel Core I5-6400| Gigabyte S1151 GA-Z170-Gaming K3 | Corsair 4GB DDR4 2133MHz ValueSelect CL15 x2 | 2TB SATA3 Seagate SSHD | Gigabyte RX 480 G1 8GB | Corsair CX 500W ATX | Thermaltake Versa H25 ATX |
+| 26.990kr          | 21.990kr                         | 5.995kr                                      | 18.990kr               | 54.990kr               | 11.696kr            | 12.990kr                  |
+| Tölvutek.is       | Tölvutek.is                      | Tölvulistinn                                 | Tölvutek.is            | Tölvutek.is            | Tölvulistinn        | Tölvutek.is               |
+Samtals: 153.641kr
